@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-12T15:24:38 PST" name="Default suite" finished-at="2023-02-12T15:25:12 PST" duration-ms="34256">
+    <groups>
+    </groups>
+    <test started-at="2023-02-12T15:24:38 PST" name="Default test" finished-at="2023-02-12T15:25:12 PST" duration-ms="34256">
+      <class name="tests.CalculatorAppTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.CalculatorAppTest@62d363ab]" started-at="2023-02-12T15:24:22 PST" name="setUp" finished-at="2023-02-12T15:24:38 PST" duration-ms="15905" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="additionTest()[pri:0, instance:tests.CalculatorAppTest@62d363ab]" started-at="2023-02-12T15:24:38 PST" name="additionTest" finished-at="2023-02-12T15:24:43 PST" duration-ms="4815" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- additionTest -->
+        <test-method signature="divisionTest()[pri:0, instance:tests.CalculatorAppTest@62d363ab]" started-at="2023-02-12T15:24:43 PST" name="divisionTest" finished-at="2023-02-12T15:24:50 PST" duration-ms="7264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- divisionTest -->
+        <test-method signature="multiplicationTest()[pri:0, instance:tests.CalculatorAppTest@62d363ab]" started-at="2023-02-12T15:24:50 PST" name="multiplicationTest" finished-at="2023-02-12T15:24:56 PST" duration-ms="6174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiplicationTest -->
+        <test-method signature="percentageTest()[pri:0, instance:tests.CalculatorAppTest@62d363ab]" started-at="2023-02-12T15:24:56 PST" name="percentageTest" finished-at="2023-02-12T15:25:05 PST" duration-ms="9340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- percentageTest -->
+        <test-method signature="subtractionTest()[pri:0, instance:tests.CalculatorAppTest@62d363ab]" started-at="2023-02-12T15:25:05 PST" name="subtractionTest" finished-at="2023-02-12T15:25:12 PST" duration-ms="6516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subtractionTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.CalculatorAppTest@62d363ab]" started-at="2023-02-12T15:25:12 PST" name="tearDown" finished-at="2023-02-12T15:25:14 PST" duration-ms="1705" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.CalculatorAppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
