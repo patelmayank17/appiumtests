@@ -1,5 +1,5 @@
 # AppiumTests
- Application Testing using Appium, Selenium, Java, Eclipse IDE, Vysor on Real Android/IOS devices.
+ Application Testing using Appium, Selenium, Java, TestNG, Eclipse IDE, Vysor on Real Android/IOS devices.
  
  ## Coverage of CalculatorAppTest on Android:
  
